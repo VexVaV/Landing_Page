@@ -7,6 +7,8 @@ body{
     flex-direction: column;
     /*min-height: 100vh;*/
 }
+/* OLD CSS */
+/*
 header{
     display: flex;
     background-color: #1F2937;
@@ -29,3 +31,4 @@ header ul{
     list-style: none;
     gap: 10px;
 }
+*/
