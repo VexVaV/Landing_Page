@@ -32,28 +32,3 @@ header ul{
     list-style: none;
     gap: 10px;
 }
-/* OLD CSS */
-/*
-header{
-    display: flex;
-    background-color: #1F2937;
-}
-.header-logo{
-    flex: 1;
-    align-self: center;
-    font-size: 24px;
-    color: #F9FAF8;
-}
-a{
-    text-decoration: none;
-    font-size: 18px;
-    color: #E5E7EB;
-}
-header ul{
-    flex: 1;
-    display: flex;
-    justify-content: flex-end;
-    list-style: none;
-    gap: 10px;
-}
-*/
