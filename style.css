@@ -7,6 +7,31 @@ body{
     flex-direction: column;
     /*min-height: 100vh;*/
 }
+header{
+    display: flex;
+    flex-direction: column;
+    background-color: #1F2937;
+}
+nav{
+    display: flex; 
+}
+.header-logo{
+    align-self: center;
+    font-size: 24px;
+    color: #F9FAF8;
+}
+a{
+    text-decoration: none;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+header ul{
+    flex: 1;
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+    gap: 10px;
+}
 /* OLD CSS */
 /*
 header{
