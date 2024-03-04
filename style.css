@@ -56,8 +56,37 @@ button{
     font-size: 24px;
     color: #F9FAF8;
 }
-.main-header > img{
-    width: 400px;
-    margin: 10px;
+.img-container{
+    border: solid red 1px;
+    width: 1250px;
+    height: 450px;
+    margin-right: 300px;
+}
+.main-header img{
+    width:100%;
     height: auto;
+}
+
+h2{
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+    text-align: center;
+}
+/*main information section*/
+.main-information{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.info-card{
+    max-width: 200px;
+    display: flex;
+    flex-direction: column;
+}
+.small-img-container{
+    border: 1px solid blue;
+    border-radius: 25px;
+    width: 200px;
+    height: 200px;
 }
